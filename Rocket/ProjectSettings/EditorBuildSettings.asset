@@ -12,8 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/2- Intro Level.unity
     guid: e92282d38c051d44297250938a62adff
   - enabled: 1
+    path: Assets/Scenes/3- Level 1.unity
+    guid: b9904e20519b1664e85170ea88c1c730
+  - enabled: 1
     path: Assets/Scenes/4- Level 2.unity
     guid: f61bd238a182e5544a155110cb1d7723
+  - enabled: 1
+    path: Assets/Scenes/4- Level 3.unity
+    guid: 77a3d2296f24c404482303b5d4461628
+  - enabled: 1
+    path: Assets/Scenes/4- Level 4.unity
+    guid: 7dfa168fe7165a64d98cb7f19600ced4
+  - enabled: 1
+    path: Assets/Scenes/4- Level 5.unity
+    guid: 7896a84708e5e4245af20eac5ca110b2
   - enabled: 1
     path: Assets/Scenes/chompers.unity
     guid: de9c081d1ae006247bb8224e42627eae
